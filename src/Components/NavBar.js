@@ -8,11 +8,26 @@ export const NavBar = () => {
   const [nav, setNav] = useState(false);
 
   const links = [
-    { id: 1, link: 'Home' },
-    { id: 2, link: 'About' },
-    { id: 3, link: 'Experience' },
-    { id: 4, link: 'Contact' },
-    { id: 5, link: 'Projects' },
+    {
+       id: 1, link: 'Home'
+
+     },
+    {
+       id: 2, link: 'About' 
+
+    },
+    {
+       id: 3, link: 'Experience'
+
+     },
+    { 
+      id: 4, link: 'Contact' 
+
+    },
+    {
+       id: 5, link: 'Projects'
+
+     },
   ];
 
   const [scrolling, setScrolling] = useState(false);
