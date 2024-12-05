@@ -1,11 +1,5 @@
 import React from 'react'
-//  import html from '../assets/html2.png'
-//  import css from '../assets/css.png'
-// import javascript from '../assets/javascript.png'
-// import tailwind from '../assets/tailwind.png'
-// import react from '../assets/react.png'
-// import github from '../assets/github.png'
-// import bootstrap from '../assets/bootstrap.jpeg'
+
 import { IoLogoCss3 } from "react-icons/io";
 import { FaHtml5 } from "react-icons/fa";
 import { TbBrandJavascript } from "react-icons/tb";
